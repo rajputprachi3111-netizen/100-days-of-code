@@ -9,4 +9,8 @@ int main(){
     b = temp;
     printf("After swapping = %d %d\n", a, b);
     return 0;  
+<<<<<<< HEAD
 }g
+=======
+}
+>>>>>>> e75ca09b05d68ecd3af1e779d9872999e49ffc1b
