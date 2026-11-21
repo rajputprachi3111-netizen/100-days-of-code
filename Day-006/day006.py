@@ -3,7 +3,7 @@ from PIL import Image, ImageDraw, ImageFont, ImageFilter
 import math
 import random
 
-WIDTH, HEIGHT = 1920, 1080
+WIDTH, HEIGHT = 1080, 1080
 random.seed(42)
 
 img = Image.new("RGB", (WIDTH, HEIGHT), (5, 8, 25))
